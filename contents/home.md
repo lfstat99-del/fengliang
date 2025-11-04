@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lfstat99-del](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/lfstat99-del)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+She is currently a PhD at Beijing Normal University.
 
 #### Contact
 
