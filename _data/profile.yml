@@ -25,8 +25,8 @@ short_bio: >-
 
   <p>
   My primary research interests lie in <b>mediation analysis</b>, particularly in developing adaptive tests for composite mediation effects in challenging settings such as high-dimensional mediators, the presence of
-  unmeasured confounding, and nonlinear outcome or mediator models. I am also interested in independence
-  testing/conditional independence testing/conditional mean independence testing and its generalization to detecting conditional average treatment effects (CATE). In addition, I also focus on high-dimensional statistical inference and causal machine learning.
+  unmeasured confounding, and nonlinear outcome or mediator models. I am also interested in <b>independence
+  testing/conditional independence testing/conditional mean independence testing</b> and its generalization to detecting conditional average treatment effects (CATE). In addition, I also focus on <b>high-dimensional statistical inference and causal machine learning</b>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.png
