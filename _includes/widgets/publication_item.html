@@ -1,7 +1,11 @@
 {% assign item = include.item %}
 <div class="d-none d-md-block">
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
-     
+        
+        <!-- 左侧留白列 -->
+        <div class="col-md-1 col-xl-1"></div>
+
+        
         <div class="col-md-9 col-xl-10 p-3 pl-md-0">
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
